@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp staff * & chown julien *
+chgrp staff * | chown vincent *
